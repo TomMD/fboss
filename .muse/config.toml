@@ -1,0 +1,2 @@
+tools = [ "infer", "cobra", "semgrep" ]
+setup = ".muse/setup.sh"
